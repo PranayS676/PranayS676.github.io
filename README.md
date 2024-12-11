@@ -70,14 +70,6 @@ I recently completed my Master's in Computer Science-Data Science from Wilmingto
 
 ---
 
-### 🐍 Snake Animation
-
-The snake animation below dynamically visualizes the contributions made to this repository:
-
-![Snake animation](https://github.com/PranayS676/PranayS676/blob/output/main.svg)
-
----
-
 ### 🌟 Projects
 
 - [**Bald Classification HairStageNet**](https://github.com/PranayS676/Bald_Classification_HairStageNet): Built a CNN-based deep learning model for baldness classification using PyTorch.
