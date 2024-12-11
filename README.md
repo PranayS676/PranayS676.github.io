@@ -74,7 +74,7 @@ I recently completed my Master's in Computer Science-Data Science from Wilmingto
 
 The snake animation below dynamically visualizes the contributions made to this repository:
 
-![Snake animation](https://github.com/PranayS676/PranayS676/blob/output/snake.svg)
+![Snake animation](https://github.com/PranayS676/PranayS676/blob/output/main.svg)
 
 ---
 
