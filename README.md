@@ -71,8 +71,8 @@ I recently completed my Master's in Computer Science-Data Science from Wilmingto
 ---
 
 ### 🌟 Projects
-
-- [**Bald Classification HairStageNet**](https://github.com/PranayS676/Multi_AI_Agent): Built a Agent to summaries/refine/make an article and then validate the Data references.
+- [**Bald Classification HairStageNet**](https://github.com/PranayS676/Bald_Classification_HairStageNet): Built a CNN-based deep learning model for baldness classification using PyTorch.
+- [**The Augmented LLM**](https://github.com/PranayS676/Multi_AI_Agent): Built a Agent to summaries/refine/make an article and then validate the Data references.
 - [**Artique-Frames Chatbot**](https://github.com/PranayS676/Artique-Frames-NLP-Enhanced-Online-chatbot): Developed an NLP-driven chatbot for enhancing user interaction in e-commerce.
 - [**Topic Generation Tool**](https://github.com/PranayS676/Topic_generation_Laama2-7B): Created a content recommendation tool leveraging the Llama 2-7B model.
 - [**Student Performance Indicator**](https://github.com/PranayS676/End_to_End-Machine-learning-project): Built an end-to-end ML pipeline to forecast student grades.
