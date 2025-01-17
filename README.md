@@ -14,15 +14,15 @@ I recently completed my Master's in Computer Science-Data Science from Wilmingto
 ### 💼 Professional Highlights
 
 - **Freddie Mac:**
-  - Built a Retrieval-Augmented Generation (RAG) pipeline that enhanced property listing recommendations, improving search relevance by 30%.
-  - Optimized contract review processes using LayoutLMv3, reducing average review time by 30%.
-  - Developed scalable ML pipelines using AWS services like SageMaker, Glue, and EKS.
+  - Aug 2023- Present
 
 - **Hexaware Technologies:**
+  - Jan 2020 - July 2022
   - Increased revenue by 16% through targeted customer segmentation campaigns.
   - Built a BERT-based email classification system, enhancing customer service efficiency.
 
 - **Streebo Inc:**
+  - Jun 2018 - Dec 2019
   - Spearheaded the BASEL III to IV transition, reducing compliance costs by 50%.
 
 ---
@@ -72,7 +72,7 @@ I recently completed my Master's in Computer Science-Data Science from Wilmingto
 
 ### 🌟 Projects
 
-- [**Bald Classification HairStageNet**](https://github.com/PranayS676/Bald_Classification_HairStageNet): Built a CNN-based deep learning model for baldness classification using PyTorch.
+- [**Bald Classification HairStageNet**](https://github.com/PranayS676/Multi_AI_Agent): Built a Agent to summaries/refine/make an article and then validate the Data references.
 - [**Artique-Frames Chatbot**](https://github.com/PranayS676/Artique-Frames-NLP-Enhanced-Online-chatbot): Developed an NLP-driven chatbot for enhancing user interaction in e-commerce.
 - [**Topic Generation Tool**](https://github.com/PranayS676/Topic_generation_Laama2-7B): Created a content recommendation tool leveraging the Llama 2-7B model.
 - [**Student Performance Indicator**](https://github.com/PranayS676/End_to_End-Machine-learning-project): Built an end-to-end ML pipeline to forecast student grades.
