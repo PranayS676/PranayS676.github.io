@@ -1,13 +1,12 @@
-## 👋 Hi! My name is SaiPranay Masadi and I'm a Data Scientist, based in Herndon, VA &nbsp;&nbsp;<a href="saipranaymasadi@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="60" alt="gmail logo"/></a>
+## 👋 Hi! My name is SaiPranay Masadi and I'm a Data Scientist, based in Herndon, VA &nbsp;&nbsp;<a href="mailto:saipranaymasadi@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="60" alt="gmail logo"/></a>
 <a href="https://www.linkedin.com/in/saipranaymasadi/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="80"  alt="linkedin logo" /> </a>
 
 ---
-
 ### 👨‍🎓 About Me
 
 I am a Data Scientist with over 4 years of professional experience spanning industries like E-commerce, Banking, and Mortgage. I specialize in building and deploying scalable machine learning models, with a focus on delivering business value through innovative data-driven solutions.
 
-I recently completed my Master's in Computer Science-Data Science from Wilmington University and have hands-on experience with large language models, retrieval-augmented generation, and advanced analytics.
+I recently completed my Master's in Computer Science-Data Science from Wilmington University and have hands-on experience with large language models, retrieval-augmented generation, and advanced analytics. worked mostly in Research and Development teams.
 
 ---
 
