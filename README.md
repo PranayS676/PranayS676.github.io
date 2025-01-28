@@ -71,6 +71,7 @@ I recently completed my Master's in Computer Science-Data Science from Wilmingto
 ---
 
 ### 🌟 Projects
+- [**DeepSeek RAGenius**](https://github.com/PranayS676/DeepSeek-RAGenius): A Localized Retrieval-Augmented Generation System for Intelligent PDF Q&A Using DeepSeek and Ollama
 - [**Bald Classification HairStageNet**](https://github.com/PranayS676/Bald_Classification_HairStageNet): Built a CNN-based deep learning model for baldness classification using PyTorch.
 - [**The Augmented LLM**](https://github.com/PranayS676/Multi_AI_Agent): Built a Agent to summaries/refine/make an article and then validate the Data references.
 - [**Artique-Frames Chatbot**](https://github.com/PranayS676/Artique-Frames-NLP-Enhanced-Online-chatbot): Developed an NLP-driven chatbot for enhancing user interaction in e-commerce.
@@ -80,3 +81,4 @@ I recently completed my Master's in Computer Science-Data Science from Wilmingto
 ---
 
 Feel free to connect with me for collaborations, discussions, or opportunities!
+Email : saipranaymasadi@gmail.com
